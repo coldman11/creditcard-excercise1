@@ -8,3 +8,7 @@ requirements
     -if card not blocked
     -can afford
 -repay debt    
+
+technical requirements
+------------------------
+-java 8
